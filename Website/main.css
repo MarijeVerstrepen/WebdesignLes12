@@ -1,0 +1,70 @@
+header {
+    background-color: aquamarine;
+    width: 600px;
+}
+
+footer {
+    background-color: red;
+    width: 600px;
+}
+
+#rij1cel1 {
+    background-color: red;
+}
+
+#rij1cel2 {
+    background-color: aqua;
+}
+#rij1cel3{
+    background-color: aquamarine;
+}
+#rij1cel4 {
+    background-color: blue;
+}
+#rij2cel1 {
+    background-color: blueviolet;
+}
+#rij2cel2 {
+    background-color: brown;
+}
+#rij2cel3 {
+    background-color: burlywood;
+}
+#rij2cel4 {
+    background-color: cadetblue;
+}
+#rij3cel1 {
+    background-color: chartreuse;
+}
+#rij3cel2 {
+    background-color: chocolate;
+}
+#rij3cel3 {
+    background-color: coral;
+}
+#rij3cel4 {
+    background-color: cornflowerblue;
+}
+#rij4cel1 {
+    background-color: crimson;
+}
+#rij4cel2 {
+    background-color: cyan;
+}
+#rij4cel3 {
+    background-color: darkblue;
+}
+#rij4cel4 {
+    background-color: darkcyan;
+}
+
+
+
+#hond1 {width: 100px;}
+#hond2 {width: 100px;}
+#hond3 {width: 100px;}
+#hond4 {width: 100px;}
+#hond5 {width: 100px;}
+#hond6 {width: 100px;}
+#hond7 {width: 100px;}
+#hond8 {width: 100px;}
